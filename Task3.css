@@ -1,0 +1,25 @@
+body{
+    background-color: aqua;
+    margin: 0vw;
+}
+.text{
+    color: white;
+    margin: 0vw 20vw;
+    font-size: 10mm;
+}
+.putaoteng{
+    margin: 25vw 37.5vw;
+    width: 25vw;
+    height: 25vw;
+    background-color: crimson;
+}
+.icon{
+    width: 25vw;
+    height: 25vw;
+    margin: 12.5vw;
+    background-color: chartreuse;
+    float: left;
+}
+.size{
+    background-size: cover;
+}
